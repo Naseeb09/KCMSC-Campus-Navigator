@@ -1,5 +1,5 @@
 # data.py
-# KCMSC Tour Guide — Floor 3 Data
+# KCMSC Tour Guide — Floor 2 Data
 
 campus_data = {
     "Floor 1": [
