@@ -14,9 +14,10 @@ campus_data = {
         {"room": "209", "class": "KG", "section": "Carnation & Sunflower"},
         {"room": "210", "class": "KG", "section": "Camillia & Bluebell"},
         {"room": "211", "class": "One", "section": "Kha"},
-        {"room": "212", "class": "Dance Room", "section": "N/A"}
+        {"room": "212", "class": "Dance Room", "section": "N/A"},
+        {"room": "213", "class": "N/A", "section": "N/A"},
     ],
-    "Highlights": [
+    "Floor 1 Highlights": [
         "⭐ Room 206 — Principal's Room",
         "🏛️ Chairman’s & Vice-Chairman’s Room"
     ],
@@ -36,10 +37,50 @@ campus_data = {
         {"room": "312", "class": "N/A", "section": "Teacher's room"},
         {"room": "313", "class": "N/A", "section": "English version Co-ordinator's Room (junior section)"},
     ],
-    "Highlights": [
+    "Floor 2 Highlights": [
         "⭐ Room 309 — Vice Principal's Room",
         "⭐ Room 312 — Teacher's Room",
         "⭐ Room 313 — English Version Co-ordinator's Room (junior section)",
         "⭐ Teacher's common room"
     ],
+    
+    "Floor 6": [
+        {"room": "701", "class": "Nine", "section": "SB-1", "version": "Bangla"},
+        {"room": "702", "class": "Nine", "section": "SB-2", "version": "Bangla"},
+        {"room": "703", "class": "Nine", "section": "BB+Hum(B)", "version": "Bangla"},
+        {"room": "704", "class": "Ten", "section": "SB", "version": "Bangla"},
+        {"room": "705", "class": "Ten", "section": "E-1", "version": "English"},
+        {"room": "706", "class": "Ten", "section": "E-2", "version": "English"},
+        {"room": "707", "class": "Nine", "section": "SG-1", "version": "Bangla"},
+        {"room": "708", "class": "Nine", "section": "SG-2", "version": "Bangla"},
+        {"room": "709", "class": "Nine", "section": "BG+Hum(G)", "version": "Bangla"},
+        {"room": "710", "class": "Ten", "section": "SG-1", "version": "Bangal"},
+        {"room": "711", "class": "Ten", "section": "SG-2", "version": "Bangla"},
+        {"room": "712", "class": "N/A", "section": "Control Room"},
+        {"room": "713", "class": "Ten", "section": "BG+Hum(G)", "version": "Bangla"}
+    ],
+    "Floor 6 Highlights": [
+        "⭐ Room 712 — Control room",
+        "⭐ Teacher's common room"
+    ],
+    
+    "Floor 7": [
+        {"room": "801", "class": "N/A", "section": "English/Bangal version Co-ordinator's room (senior section)"},
+        {"room": "802", "class": "N/A", "section": "Biology Lab"},
+        {"room": "803", "class": "N/A", "section": "Chemistry Lab"},
+        {"room": "804", "class": "N/A", "section": "Physics Lab"},
+        {"room": "805", "class": "N/A", "section": "Computer Lab"},
+        {"room": "806", "class": "N/A", "section": "Library Room"},
+        {"room": "807", "class": "N/A", "section": "Digital-1 Room"},
+        {"room": "808", "class": "N/A", "section": "Digital-2 Room"},
+        {"room": "809", "class": "N/A", "section": "Digital-3 Room"},
+        {"room": "810", "class": "N/A", "section": "N/A"},
+        {"room": "811", "class": "N/A", "section": "N/A"},
+        {"room": "812", "class": "N/A", "section": "N/A"},
+        {"room": "813", "class": "N/A", "section": "N/A"},
+    ],
+    "Floor 7 Highlights": [
+        "⭐ Room 801 — English/Bangal Version Co-ordinator's Room (senior section)",
+        "⭐ Vice Principal's Room (senior section)"
+    ]
 }
