@@ -30,14 +30,14 @@ campus_data = {
         {"room": "306", "class": "Two", "section": "kha", "version": "Bangla"},
         {"room": "307", "class": "Two", "section": "ga", "version": "Bangla"},
         {"room": "308", "class": "Two", "section": "A", "version": "English"},
-        {"room": "309", "class": "N/A", "section": "Vice-Principal's Room"},
+        {"room": "309", "class": "N/A", "section": "Vice-Principal's Room (junior section)"},
         {"room": "310", "class": "Two", "section": "B", "version": "English"},
         {"room": "311", "class": "Two", "section": "C", "version": "English"},
         {"room": "312", "class": "N/A", "section": "Teacher's room"},
         {"room": "313", "class": "N/A", "section": "English version Co-ordinator's Room (junior section)"},
     ],
     "Highlights": [
-        "⭐ Room 309 — Vice Principal's Room",
+        "⭐ Room 309 — Vice Principal's Room (junior section)",
         "⭐ Room 312 — Teacher's Room",
         "⭐ Room 313 — English Version Co-ordinator's Room (junior section)",
         "⭐ Teacher's common room"
@@ -62,6 +62,26 @@ campus_data = {
         "⭐ Teacher's Common Room"
     ],
     
+    "Floor 4": [
+        {"room": "501", "class": "Ten", "section": "BB", "version": "Bangla"},
+        {"room": "502", "class": "Six", "section": "Ev", "version": "English"},
+        {"room": "503", "class": "Seven", "section": "Ev", "version": "English"},
+        {"room": "504", "class": "Eight", "section": "Ev", "version": "English"},
+        {"room": "505", "class": "Nine", "section": "Ev-1", "version": "English"},
+        {"room": "506", "class": "Nine", "section": "Ev-2", "version": "English"},
+        {"room": "507", "class": "N/A", "section": "N/A", "version": "N/A"},
+        {"room": "508", "class": "N/A", "section": "N/A", "version": "N/A"},
+        {"room": "509", "class": "N/A", "section": "N/A", "version": "N/A"},
+        {"room": "510", "class": "N/A", "section": "N/A", "version": "N/A"},
+        {"room": "511", "class": "N/A", "section": "N/A", "version": "N/A"},
+        {"room": "512", "class": "N/A", "section": "N/A", "version": "N/A"},
+        {"room": "513", "class": "N/A", "section": "N/A", "version": "N/A"}
+    
+    ],
+    "Highlights": [
+        "⭐ Teacher's Common Room"
+    ],
+
     "Floor 6": [
         {"room": "701", "class": "Nine", "section": "SB-1", "version": "Bangla"},
         {"room": "702", "class": "Nine", "section": "SB-2", "version": "Bangla"},
