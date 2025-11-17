@@ -14,7 +14,8 @@ campus_data = {
             {"room": "209", "class": "KG", "section": "Carnation & Sunflower"},
             {"room": "210", "class": "KG", "section": "Camillia & Bluebell"},
             {"room": "211", "class": "One", "section": "Kha"},
-            {"room": "212", "class": "Dance Room", "section": "N/A"}
+            {"room": "212", "class": "Dance Room", "section": "N/A"},
+            {"room": "213", "class": "N/A", "section": "N/A"}
         ],
         "highlights": [
             "⭐ Room 206 — Principal's Room",
@@ -75,13 +76,13 @@ campus_data = {
             {"room": "504", "class": "Eight", "section": "Ev", "version": "English"},
             {"room": "505", "class": "Nine", "section": "Ev-1", "version": "English"},
             {"room": "506", "class": "Nine", "section": "Ev-2", "version": "English"},
-            {"room": "507", "class": "N/A", "section": "N/A", "version": "N/A"},
-            {"room": "508", "class": "N/A", "section": "N/A", "version": "N/A"},
-            {"room": "509", "class": "N/A", "section": "N/A", "version": "N/A"},
-            {"room": "510", "class": "N/A", "section": "N/A", "version": "N/A"},
+            {"room": "507", "class": "Five", "section": "Ka", "version": "Bangla"},
+            {"room": "508", "class": "Five", "section": "Kha", "version": "Bangla"},
+            {"room": "509", "class": "Five", "section": "Ga", "version": "Bangla"},
+            {"room": "510", "class": "Five", "section": "Gha", "version": "Bangla"},
             {"room": "511", "class": "N/A", "section": "N/A", "version": "N/A"},
-            {"room": "512", "class": "N/A", "section": "N/A", "version": "N/A"},
-            {"room": "513", "class": "N/A", "section": "N/A", "version": "N/A"}
+            {"room": "512", "class": "Five", "section": "A", "version": "English"},
+            {"room": "513", "class": "Five", "section": "B", "version": "English"}
         ],
         "highlights": [
             "⭐ Teacher's Common Room"
@@ -121,10 +122,7 @@ campus_data = {
             {"room": "807", "class": "N/A", "section": "Digital-1 Room"},
             {"room": "808", "class": "N/A", "section": "Digital-2 Room"},
             {"room": "809", "class": "N/A", "section": "Digital-3 Room"},
-            {"room": "810", "class": "N/A", "section": "N/A"},
-            {"room": "811", "class": "N/A", "section": "N/A"},
-            {"room": "812", "class": "N/A", "section": "N/A"},
-            {"room": "813", "class": "N/A", "section": "N/A"}
+            {"room": "810", "class": "N/A", "section": "N/A"}
         ],
         "highlights": [
             "⭐ Room 801 — English/Bangal Version Co-ordinator's Room (senior section)",
