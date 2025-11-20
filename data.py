@@ -80,12 +80,34 @@ campus_data = {
             {"room": "508", "class": "Five", "section": "Kha", "version": "Bangla"},
             {"room": "509", "class": "Five", "section": "Ga", "version": "Bangla"},
             {"room": "510", "class": "Five", "section": "Gha", "version": "Bangla"},
-            {"room": "511", "class": "N/A", "section": "N/A", "version": "N/A"},
+            {"room": "511", "class": "Five", "section": "Uwo", "version": "Bangla"},
             {"room": "512", "class": "Five", "section": "A", "version": "English"},
             {"room": "513", "class": "Five", "section": "B", "version": "English"}
         ],
         "highlights": [
             "⭐ Teacher's Common Room"
+        ]
+    },
+
+    "Floor 5": {
+        "rooms": [
+            {"room": "601", "class": "Six", "section": "B-1", "version": "Bangla"},
+            {"room": "602", "class": "Six", "section": "B-2", "version": "Bangla"},
+            {"room": "603", "class": "Seven", "section": "B-1", "version": "Bangla"},
+            {"room": "604", "class": "Seven", "section": "B-2", "version": "Bangla"},
+            {"room": "605", "class": "Eight", "section": "B-1", "version": "Bangla"},
+            {"room": "606", "class": "Eight", "section": "B-2", "version": "Bangla"},
+            {"room": "607", "class": "Six", "section": "G-1", "version": "Bangla"},
+            {"room": "608", "class": "Six", "section": "G-2", "version": "Bangla"},
+            {"room": "609", "class": "Seven", "section": "G-1", "version": "Bangla"},
+            {"room": "610", "class": "Seven", "section": "G-2", "version": "Bangla"},
+            {"room": "611", "class": "Eight", "section": "G-1", "version": "Bangla"},
+            {"room": "612", "class": "Eight", "section": "G-2", "version": "Bangla"},
+            {"room": "613", "class": "N/A", "section": "Music/Religious Study Room", "version": "English/Bangla"}
+        ],
+        "highlights": [
+            "⭐ Teacher's Common Room"
+            "⭐ Room 613 — Music/Religious Study Room"
         ]
     },
 
@@ -122,14 +144,43 @@ campus_data = {
             {"room": "807", "class": "N/A", "section": "Digital-1 Room"},
             {"room": "808", "class": "N/A", "section": "Digital-2 Room"},
             {"room": "809", "class": "N/A", "section": "Digital-3 Room"},
-            {"room": "810", "class": "N/A", "section": "N/A"}
+            {"room": "813", "class": "N/a", "section": "Conference Room"}
         ],
         "highlights": [
             "⭐ Room 801 — English/Bangal Version Co-ordinator's Room (senior section)",
             "⭐ Vice Principal's Room (senior section)"
         ]
-    }
+    },
+ 
+    "Floor 8": {
+        "rooms": [
+            {"room": "901", "class": "N/A", "section": "N/A", "version": "N/A"},
+            {"room": "902", "class": "Eleven", "section": "Arts", "version": "Bangla"},
+            {"room": "903", "class": "Eleven", "section": "Commerce", "version": "Bangla"},
+            {"room": "904", "class": "Eleven", "section": "Science", "version": "Bangla"},
+            {"room": "905", "class": "Eleven", "section": "All", "version": "English"},
+            {"room": "906", "class": "N/A", "section": "Exam Room", "version": "N/A"},
+            {"room": "907", "class": "Twelve", "section": "Science", "version": "Bangla"},
+            {"room": "908", "class": "Twelve", "section": "All", "version": "English"},
+            {"room": "909", "class": "Twelve", "section": "Commerce", "version": "Bangla"},
+            {"room": "910", "class": "Twelve", "section": "Arts", "version": "Bangla"},
+            {"room": "911", "class": "N/A", "section": "N/A", "version": "N/A"},
+            {"room": "912", "class": "N/A", "section": "N/A", "version": "N/A"},
+            {"room": "913", "class": "N/A", "section": "Teacher's Room", "version": "N/A"}
+        ],
+        "highlights": [
+            "⭐ Teacher's Common Room"
+            "⭐ Room:913 — Teacher's  Room"
+            "⭐ Room:906 — Exam Room"
+        ]
+    },
+
+
 }
+
+   
+
+
 
 ascii_maps = {
     "Floor 1": r"""
